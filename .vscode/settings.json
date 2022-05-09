@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "rds"
+    ],
+    "python.analysis.typeshedPaths": [
+        "rds"
+    ],
+    "editor.defaultFormatter": "ms-python.python",
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.logLevel": "Error"
+}
